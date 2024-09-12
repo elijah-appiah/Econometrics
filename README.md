@@ -33,7 +33,7 @@
    - Evaluating the Results of Regression Results
    - Functional Forms of Regression Models (Log-Log model, Log-Linear model, Linear-Log model,  Reciprocal model, etc...)
    - Choosing a Functional Form for Regression Analysis
-**3. Multiple Regression Analysis**
+3. **Multiple Regression Analysis**
    - Nature of Multiple Regression Analysis
    - Matrices Derivation of OLS Estimates in Multiple Regression Analysis
    - Interpretation of Multiple Regression Coefficients
@@ -51,12 +51,12 @@
      - ANOVA Models (only qualitative regressors)
      - ANCOVA Models (mixture of quantitative and qualitative regressors)
    - Assumptions of Classical Linear Regression Model Revisited
-4. Problems in Cross-Sectional Regression Analysis
+4. **Problems in Cross-Sectional Regression Analysis**
    - Multicollinearity
    - Heteroscedasticity
    - Autocorrelation
    - Model Misspecification or Specification Errors
-5. Qualitative Response Regression Models
+5. **Qualitative Response Regression Models**
    - Binary Outcome Models
      - Linear Probability Model (LPM)
      - The Logistic (or Logit) Regression Model
@@ -67,7 +67,7 @@
    - Multiclass Outcome Models
      - Ordinal Logit and Probit Models
      - Multinomial Logit and Probit Models
-6. Simultaneous-Equation Models
+6. **Simultaneous-Equation Models**
    - Nature and Examples of Simultaneous Equation Models
    - Simultaneous-Equation Bias: Inconsistency of OLS Estimators
    - The Identification Problem in Simultaneous-Equation Models
@@ -77,7 +77,7 @@
      - Ordinary Least Squares Estimation in Simultaneous Equation Models
      - Indirect Least Squares (ILS)
      - Two-Stage Least Squares (2SLS)
-7. Time Series Analysis
+7. **Time Series Analysis**
    - Time Series Concepts
      - Stationary Processes and White Noise
      - Nonstationary Processes and the Random Walk Model
@@ -125,19 +125,26 @@
        - BEKK GARCH
        - Constant Conditional Correlation (CCC) GARCH
        - Dynamic Correlation Coefficient (DCC) GARCH
- - Nonlinear Time Series Models
-   - Threshold Autoregression (TAR) Model
-   - Smooth-Transition Autoregression (STAR) Model
-     - Logistic STAR (LSTAR) Model
-     - Exponential STAR (ESTAR) Model
-   - Smooth-Transition Error Correction Model (STECM)
-   - Markov Switching Models (Regime-Switching Models)
+    - Nonlinear Time Series Models
+       - Threshold Autoregression (TAR) Model
+       - Smooth-Transition Autoregression (STAR) Model
+       - Logistic STAR (LSTAR) Model
+       - Exponential STAR (ESTAR) Model
+     - Smooth-Transition Error Correction Model (STECM)
+     - Markov Switching Models (Regime-Switching Models)
+8. **Panel Data Regression Models**
+   - Nature of Panel Data Models
+   - Pooled OLS Regression
+   - Fixed Effects Model (FEM)
+     - The Fixed Effect Least-Squares Dummy Variable (LSDV) Model
+     - The Fixed-Effect Within-Group (WG) Estimator
+   - The Random Effects Model (REM)
+   - Fixed Effects versus Random Effects Models (Hausman Test & Lagrange Multiplier Test)
+   - Properties of the Panel Data Models (Pooled OLS, FEM, REM)
+   - Mixed Effects Models (Hierarchical Linear Model)
+   - Difference-in-Differences (DiD) Model
+   - Dynamic Panel Data Models
+     - Arellano-Bond Dynanmic Panel Data Model
 
-## It is obvious the outline on this subject is very comprehensive, detailed and exactly on point. Be sure to subscribe to my [YouTube Channel](https://www.youtube.com/@ElijahAppiah).
 
-
-
-
-
-
-
+## It is obvious the outline on this subject is very comprehensive, detailed and exactly on point. Be sure to subscribe to my [YouTube Channel](https://www.youtube.com/@ElijahAppiah). Feel free to suggest more lessons that I can add if there is anything I forgot to add.
