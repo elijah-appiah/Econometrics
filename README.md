@@ -33,7 +33,7 @@
    - Evaluating the Results of Regression Results
    - Functional Forms of Regression Models (Log-Log model, Log-Linear model, Linear-Log model,  Reciprocal model, etc...)
    - Choosing a Functional Form for Regression Analysis
-3. Multiple Regression Analysis
+**3. Multiple Regression Analysis**
    - Nature of Multiple Regression Analysis
    - Matrices Derivation of OLS Estimates in Multiple Regression Analysis
    - Interpretation of Multiple Regression Coefficients
