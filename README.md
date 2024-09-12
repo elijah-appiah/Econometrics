@@ -5,9 +5,9 @@
 
 ## Here is an outline of what is being taught:
 
-1. Introduction to Econometrics
+1. **Introduction to Econometrics**
    - [Traditional/Classical Methodology of Econometrics](https://youtu.be/06Efyt251hg?si=DxZvkF36rXr-pa_w)
-2. Simple Regression Analysis
+2. **Simple Regression Analysis**
    - [Nature of Regression Analysis](https://youtu.be/8Mha2cp1gsI?si=AwKUFBznoxZ2u-BS)
    - [Significance of the Stochastic Error Term](https://youtu.be/xP1G3N54iFc?si=RgVTfsiqj9JBTrVN)
    - [Two-Variable Regression Analysis](https://youtu.be/-pa3fp6gGs8?si=Dm-b3XnioZ6fWRyC)
