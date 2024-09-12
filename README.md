@@ -1,2 +1,143 @@
 # Econometrics
-Learn all the concepts in econometric modeling
+## Learn all the concepts in econometric modeling
+
+![](https://github.com/elijah-appiah/Econometrics/blob/main/econometrics%20photo.png)
+
+## Here is an outline of what is being taught:
+
+1. Introduction to Econometrics
+   - [Traditional/Classical Methodology of Econometrics](https://youtu.be/06Efyt251hg?si=DxZvkF36rXr-pa_w)
+2. Simple Regression Analysis
+   - [Nature of Regression Analysis](https://youtu.be/8Mha2cp1gsI?si=AwKUFBznoxZ2u-BS)
+   - [Significance of the Stochastic Error Term](https://youtu.be/xP1G3N54iFc?si=RgVTfsiqj9JBTrVN)
+   - [Two-Variable Regression Analysis](https://youtu.be/-pa3fp6gGs8?si=Dm-b3XnioZ6fWRyC)
+   - [Method of Ordinary Least Squares (OLS)](https://youtu.be/rHwSg3xz5pE?si=2RddFRQ3d_fvU1tp)
+   - Statistical Properties of OLS Regression Coefficients
+   - Assumptions Underlying Classical Linear Regression Model
+   - Precision or Standard Errors of OLS Estimates
+   - The Gauss-Markov Theorem
+   - Proof of the Gauss-Markov Theorem
+   - Coefficient of Determination (R-squared) or "Goodness of Fit"
+   - Proof of Coefficient of Determination (R-squared) or "Goodness of Fit"
+   - Correlation Coefficient in Regression
+   - Numerical Example of Regression Analysis
+   - Classical Normal Linear Regression Model (CNLRM)
+   - The Method of Maximum Likelihood (ML)
+   - Confidence Interval for Regression Coefficients
+   - Confidence Interval for the Variance
+   - Hypothesis Testing of Regression Coefficients: Confidence Interval Approach
+   - Hypothesis Testing of Regression Coefficients: Test of Significance Approach
+   - Hypothesis Testing of Regression Coefficients: p-value Approach
+   - Regression Analysis and Analysis of Variance (ANOVA)
+   - Application of Regression Analysis: The Problem of Prediction
+   - Evaluating the Results of Regression Results
+   - Functional Forms of Regression Models (Log-Log model, Log-Linear model, Linear-Log model,  Reciprocal model, etc...)
+   - Choosing a Functional Form for Regression Analysis
+3. Multiple Regression Analysis
+   - Nature of Multiple Regression Analysis
+   - Matrices Derivation of OLS Estimates in Multiple Regression Analysis
+   - Interpretation of Multiple Regression Coefficients
+   - Variance and Standard Errors of OLS Estimates in Multiple Regression Analysis
+   - Properties of OLS Estimates in Multipe Regression Analysis
+   - The Multiple Coefficient of Determination and the Multiple Correlation Coefficient
+   - R-Squared and the Adjusted R-Squared in Multiple Regression Analysis
+   - The Objective of Maximizing R-Squared in Regression Models
+   - Polynomial Regression Models
+   - Hypothesis Testing in Multiple Regression: Test of Individual Significance of OLS Estimates
+   - Hypothesis Testing in Multiple Regression: Test of Overall Significance of OLS Estimates
+   - Hypothesis Testing of Equality of Two Regression Coefficients
+   - Dummy Variable Regression Models
+     - Nature of Dummy Variables
+     - ANOVA Models (only qualitative regressors)
+     - ANCOVA Models (mixture of quantitative and qualitative regressors)
+   - Assumptions of Classical Linear Regression Model Revisited
+4. Problems in Cross-Sectional Regression Analysis
+   - Multicollinearity
+   - Heteroscedasticity
+   - Autocorrelation
+   - Model Misspecification or Specification Errors
+5. Qualitative Response Regression Models
+   - Binary Outcome Models
+     - Linear Probability Model (LPM)
+     - The Logistic (or Logit) Regression Model
+     - The Probit Model
+   - The Tobit Model
+   - The Poisson Regression Model
+   - The Heckman Model (Censored or Truncated Regression)
+   - Multiclass Outcome Models
+     - Ordinal Logit and Probit Models
+     - Multinomial Logit and Probit Models
+6. Simultaneous-Equation Models
+   - Nature and Examples of Simultaneous Equation Models
+   - Simultaneous-Equation Bias: Inconsistency of OLS Estimators
+   - The Identification Problem in Simultaneous-Equation Models
+   - Rules for Identification in Simultaneous-Equation Models
+   - Test of Simultaneity (Hausman Specification Test)
+   - Simultaneous Equation Methods
+     - Ordinary Least Squares Estimation in Simultaneous Equation Models
+     - Indirect Least Squares (ILS)
+     - Two-Stage Least Squares (2SLS)
+7. Time Series Analysis
+   - Time Series Concepts
+     - Stationary Processes and White Noise
+     - Nonstationary Processes and the Random Walk Model
+     - Trend Statiionary versus Difference Stationary Processes
+     - Integrated Processes
+     - Why is Stationary Time Series Important?
+     - Tests of Stationarity: Basic and Formal Tests
+     - Cointegration
+   - Time Series Forecasting
+     - Introduction to Forecasting
+     - Naive Method
+     - Single Exponential Smoothing (SES)
+     - Holt's Linear Exponential Smoothing
+     - Holt Winters' Exponential Smoothing
+     - Error-Trend-Variance (ETS) Method
+     - Autoregressive Integrated Moving Average (ARIMA) Forecasting
+       - Autoregressive (AR) Model
+       - Moving Average (MA) Model
+       - Autoregressive and Moving Average (ARMA) Model
+       - ARIMA Model (Box-Jenkins Methodology)
+       - Seasonal ARIMA Model
+     - Dynamic Regression
+     - Dynamic Harmonic Regression
+     - TBATS Model: Trigonometric Seasonanality, Box-Cox Transformation, ARMA Errors, Trend, Seasonal Components
+   - Autoregressive Distributed Lag (ARDL) Model
+     - Cointegration and Error Correction Model (ECM)
+     - Nature of ARDL Model
+     - Methodology and Estimation of ARDL Model
+   - Vector Autoregression Model (VAR) Model
+     - Estimation
+     - Forecasting
+     - Impulse Response Function
+     - Causality
+     - Vector Error Correction Model (VECM)
+   - Autogressive Conditional Heteroscedasticity (ARCH) Model
+     - Nature of ARCH Model
+     - ARCH-in-Mean (ARCH-M) Model
+   - Generalized Autogressive Conditional Heteroscedasticity (GARCH) Model
+     - Nature of GARCH Models
+     - GARCH Model Variants
+       - GARCH-in-Mean (GARCH-M) Model
+       - Integrated GARCH (IGARCH) Model
+       - Asymmetric GARCH Models: TGARCH and EGARCH
+     - Multivariate GARCH Models
+       - BEKK GARCH
+       - Constant Conditional Correlation (CCC) GARCH
+       - Dynamic Correlation Coefficient (DCC) GARCH
+ - Nonlinear Time Series Models
+   - Threshold Autoregression (TAR) Model
+   - Smooth-Transition Autoregression (STAR) Model
+     - Logistic STAR (LSTAR) Model
+     - Exponential STAR (ESTAR) Model
+   - Smooth-Transition Error Correction Model (STECM)
+   - Markov Switching Models (Regime-Switching Models)
+
+## It is obvious the outline on this subject is very comprehensive, detailed and exactly on point. Be sure to subscribe to my [YouTube Channel](https://www.youtube.com/@ElijahAppiah).
+
+
+
+
+
+
+
