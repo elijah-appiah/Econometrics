@@ -13,8 +13,8 @@
    - [Two-Variable Regression Analysis](https://youtu.be/-pa3fp6gGs8?si=Dm-b3XnioZ6fWRyC)
    - [Method of Ordinary Least Squares (OLS)](https://youtu.be/rHwSg3xz5pE?si=2RddFRQ3d_fvU1tp)
    - Numerical Example of Ordinary Least Squares (OLS) Method
-   - Statistical Properties of OLS Regression Coefficients
-   - Assumptions Underlying Classical Linear Regression Model
+   - Numerical Properties of OLS Estimators
+   - Statistical Properties of OLS Regression Coefficients: Assumptions Underlying Classical Linear Regression Model
    - Precision or Standard Errors of OLS Estimates
    - The Gauss-Markov Theorem
    - Proof of the Gauss-Markov Theorem
