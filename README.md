@@ -14,7 +14,7 @@
    - [Method of Ordinary Least Squares (OLS)](https://youtu.be/rHwSg3xz5pE?si=2RddFRQ3d_fvU1tp)
    - [Numerical Example of Ordinary Least Squares (OLS) Method](https://youtu.be/plzxiH1DcNg?si=rCy7oBW7xO_kcE0r)
    - [Numerical Properties of OLS Estimators (with Proofs)](https://youtu.be/b-IX-N-I5xI?si=fYyrYngNjae0XtZo)
-   - Statistical Properties of OLS Regression Coefficients: Assumptions of the Classical Linear Regression Model
+   - [Statistical Properties of OLS Regression Coefficients: Assumptions of the Classical Linear Regression Model](https://youtu.be/VnigyTIjgeE?si=Nk2I6C5LbmzEnSV1)
    - Precision or Standard Errors of OLS Estimates
    - The Gauss-Markov Theorem
    - Proof of the Gauss-Markov Theorem
