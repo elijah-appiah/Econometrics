@@ -19,7 +19,6 @@
    - The Gauss-Markov Theorem
    - Proof of the Gauss-Markov Theorem
    - Coefficient of Determination (R-squared) or "Goodness of Fit"
-   - Proof of Coefficient of Determination (R-squared) or "Goodness of Fit"
    - Numerical Example of Regression Analysis
    - Classical Normal Linear Regression Model (CNLRM)
    - The Method of Maximum Likelihood (ML)
