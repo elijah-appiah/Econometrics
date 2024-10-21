@@ -16,7 +16,7 @@
    - [Numerical Properties of OLS Estimators (with Proofs)](https://youtu.be/b-IX-N-I5xI?si=fYyrYngNjae0XtZo)
    - [Statistical Properties of OLS Regression Coefficients: Assumptions of the Classical Linear Regression Model](https://youtu.be/VnigyTIjgeE?si=Nk2I6C5LbmzEnSV1)
    - [Precision or Standard Errors of OLS Estimates](https://youtu.be/5Bu7DPdO4hY?si=rhnXJDqqODl3tgwq)
-   - The Gauss-Markov Theorem
+   - [The Gauss-Markov Theorem](https://youtu.be/nF8lr7OnpfE?si=IIlWWH5mcu32rW0F)
    - Proof of the Gauss-Markov Theorem
    - Coefficient of Determination (R-squared) or "Goodness of Fit"
    - Numerical Example of Regression Analysis
