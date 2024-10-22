@@ -17,7 +17,7 @@
    - [Statistical Properties of OLS Regression Coefficients: Assumptions of the Classical Linear Regression Model](https://youtu.be/VnigyTIjgeE?si=Nk2I6C5LbmzEnSV1)
    - [Precision or Standard Errors of OLS Estimates](https://youtu.be/5Bu7DPdO4hY?si=rhnXJDqqODl3tgwq)
    - [The Gauss-Markov Theorem](https://youtu.be/nF8lr7OnpfE?si=IIlWWH5mcu32rW0F)
-   - Proof of the Gauss-Markov Theorem
+   - [Proof of the Gauss-Markov Theorem](https://youtu.be/g3ekAPbNNNw?si=HAE7cWJRt_1NCuYE)
    - Coefficient of Determination (R-squared) or "Goodness of Fit"
    - Numerical Example of Regression Analysis
    - Classical Normal Linear Regression Model (CNLRM)
