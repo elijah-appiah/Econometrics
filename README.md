@@ -100,7 +100,7 @@
        - Seasonal ARIMA Model
      - Dynamic Regression
      - Dynamic Harmonic Regression
-     - TBATS Model: Trigonometric Seasonanality, Box-Cox Transformation, ARMA Errors, Trend, Seasonal Components
+     - TBATS Model: Trigonometric Seasonality, Box-Cox Transformation, ARMA Errors, Trend, Seasonal Components
    - Autoregressive Distributed Lag (ARDL) Model
      - Cointegration and Error Correction Model (ECM)
      - Nature of ARDL Model
