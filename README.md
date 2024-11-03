@@ -111,10 +111,10 @@
      - Impulse Response Function
      - Causality
      - Vector Error Correction Model (VECM)
-   - Autogressive Conditional Heteroscedasticity (ARCH) Model
+   - Autoregressive Conditional Heteroscedasticity (ARCH) Model
      - Nature of ARCH Model
      - ARCH-in-Mean (ARCH-M) Model
-   - Generalized Autogressive Conditional Heteroscedasticity (GARCH) Model
+   - Generalized Autoregressive Conditional Heteroscedasticity (GARCH) Model
      - Nature of GARCH Models
      - GARCH Model Variants
        - GARCH-in-Mean (GARCH-M) Model
