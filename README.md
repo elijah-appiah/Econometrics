@@ -80,7 +80,7 @@
    - Time Series Concepts
      - Stationary Processes and White Noise
      - Nonstationary Processes and the Random Walk Model
-     - Trend Statiionary versus Difference Stationary Processes
+     - Trend Stationary versus Difference Stationary Processes
      - Integrated Processes
      - Why is Stationary Time Series Important?
      - Tests of Stationarity: Basic and Formal Tests
