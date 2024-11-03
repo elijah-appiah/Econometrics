@@ -143,7 +143,7 @@
    - Mixed Effects Models (Hierarchical Linear Model)
    - Difference-in-Differences (DiD) Model
    - Dynamic Panel Data Models
-     - Arellano-Bond Dynanmic Panel Data Model
+     - Arellano-Bond Dynamic Panel Data Model
 
 
 ## It is obvious the outline on this subject is very comprehensive, detailed and exactly on point. Be sure to subscribe to my [YouTube Channel](https://www.youtube.com/@ElijahAppiah). Feel free to suggest more lessons that I can add if there is anything I forgot to add.
