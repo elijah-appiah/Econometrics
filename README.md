@@ -37,7 +37,7 @@
    - Matrices Derivation of OLS Estimates in Multiple Regression Analysis
    - Interpretation of Multiple Regression Coefficients
    - Variance and Standard Errors of OLS Estimates in Multiple Regression Analysis
-   - Properties of OLS Estimates in Multipe Regression Analysis
+   - Properties of OLS Estimates in Multiple Regression Analysis
    - The Multiple Coefficient of Determination and the Multiple Correlation Coefficient
    - R-Squared and the Adjusted R-Squared in Multiple Regression Analysis
    - The Objective of Maximizing R-Squared in Regression Models
