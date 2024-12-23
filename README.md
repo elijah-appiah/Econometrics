@@ -1,5 +1,5 @@
 # Econometrics
-## Learn all the concepts in econometric modeling
+## Learn all the concepts in econometric modeling.
 
 ![](https://github.com/elijah-appiah/Econometrics/blob/main/econometrics%20photo.png)
 
