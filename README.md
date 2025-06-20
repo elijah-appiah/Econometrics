@@ -3,7 +3,7 @@
 
 ![](https://github.com/elijah-appiah/Econometrics/blob/main/econometrics%20photo.png)
 
-## Here is an outline of what is being taught: 
+## Here is an outline of what is being taught:
 
 1. **Introduction to Econometrics**
    - [Traditional/Classical Methodology of Econometrics](https://youtu.be/06Efyt251hg?si=DxZvkF36rXr-pa_w)
